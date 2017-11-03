@@ -1,0 +1,19 @@
+[PROJECT]
+Target=transmissor.hex
+Processor_Text=PIC16F628A
+CCSVersion=5.015
+Compiler=PCM
+[Target Data]
+FileList=transmissor.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\DriversC:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\
+[transmissor.c]
+Type=4
+[mru-list]
+1=transmissor.c
+[Opened Files]
+1=transmissor.c
+2=
+[Units]
+Count=1
+1=transmissor (main)
